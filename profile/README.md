@@ -14,11 +14,10 @@
 
 ## 팀원 구성👨‍👩‍👧‍👦
 <div align="center">
-https://avatars.githubusercontent.com/u/105181225?v=4
 
 | **이한빈** | **박종설** | **최대련** | **정유상** |
 |:----------:|:----------:|:----------:|:----------:|
-| [<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @LuKaBery](https://github.com/LuKaBery) | [<img src="https://avatars.githubusercontent.com/u/105614086?v=4/u/replace_with_JongsoulPark_avatar?s=96&v=4" height="80" width="80"> <br/> @JongsoulPark](https://github.com/JongsoulPark) | [<img src="https://avatars.githubusercontent.com/u/21366358?v=4/u/replace_with_yellowcowCDR_avatar?s=96&v=4" height="80" width="80"> <br/> @yellowcowCDR](https://github.com/yellowcowCDR) | [<img src="(https://avatars.githubusercontent.com/u/105181225?v=4)" height="80" width="80"> <br/> @YusangJeong](#) |
+| [<img src="https://avatars.githubusercontent.com/u/99483558?s=96&v=4" height="80" width="80"> <br/> @LuKaBery](https://github.com/LuKaBery) | [<img src="https://avatars.githubusercontent.com/u/105614086?v=4&s=96" height="80" width="80"> <br/> @JongsoulPark](https://github.com/JongsoulPark) | [<img src="https://avatars.githubusercontent.com/u/21366358?v=4&s=96" height="80" width="80"> <br/> @yellowcowCDR](https://github.com/yellowcowCDR) | [<img src="https://avatars.githubusercontent.com/u/105181225?v=4&s=96" height="80" width="80"> <br/> @YusangJeong](https://github.com/YusangJeong) |
 </div>
 
 <br>
