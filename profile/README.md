@@ -30,7 +30,7 @@
 - 빌드도구: Maven
 - 개발
     - Spring Framework: 5.3
-    - Spring Boot: 3.3.18
+    - Spring Boot: 3.3.5
     - Spring Cloud
         - Spring Cloud Gateway
         - Spring Cloud Netflex(Eureka)
